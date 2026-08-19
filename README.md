@@ -15,7 +15,7 @@ This repository only contains the main scripts and custom function needed for th
 * **`pronet_main_pretestbehav.m`**  
   Constructs theoretical and participant-specific model Representational Dissimilarity Matrices (RDMs) - ingredients for RSA
 
-  * **`pronet_main_may2026.m`**  
+* **`pronet_main_may2026.m`**  
   The central analysis script. Computes multivariate neural distance matrices (Crossnobis), runs RSA modeling (NNLS / linear regression), and performs variance partitioning across experimental conditions + noise ceiling calculation.
 
 
