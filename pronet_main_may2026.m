@@ -4,8 +4,8 @@
 % written by Antonia Ceric, 2026
 
 clear; clc;
-addpath /mnt/beegfs/users/antonia.ceric/git/pronet/code/matlab/func;
-addpath /mnt/beegfs/users/antonia.ceric/git/pronet/code/matlab/func/pretest_modelling/;
+addpath /mnt/beegfs/users/antonia.ceric/git/pronet_masterthesis/func;
+addpath /mnt/beegfs/users/antonia.ceric/git/pronet/pronet_masterthesis/func/pretest_modelling/;
 run('pronet_startup.m'); 
 
 global DATA_PATH;
