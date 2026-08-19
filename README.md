@@ -20,6 +20,11 @@ This repository only contains the main scripts and custom function needed for th
 
 
 > **Note:** Modular helper functions (e.g., first-level GLM estimation, Crossnobis distance calculations, permutation testing, and plotting) are called automatically by the main scripts and are documented directly within their respective files.
+---
+## Overview methodological pipelines
+Pipelines are automatically run by `pronet_main_may2026.m`
+
+<img width="1240" height="579" alt="image" src="https://github.com/user-attachments/assets/f53da1ee-347a-497a-b19c-9e222614d9fc" />
 
 ---
 
@@ -48,4 +53,3 @@ Add the following external resources to your MATLAB path:
 
 * **MATLAB** (R2024b or later recommended)
 * **SPM12** ([Statistical Parametric Mapping](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/))
-* 
