@@ -1,4 +1,4 @@
-%% pronet_master_rsa_pipeline_runner.m
+%% pronet_main_may2026.m
 % Master Script to run RSA Pipeline (4 selected versions)
 % Includes modeling, statistics, ANOVA, Noise Ceilings.
 % written by Antonia Ceric, 2026
