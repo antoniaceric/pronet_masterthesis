@@ -3,7 +3,7 @@
 This repository contains the analysis scripts for the PROENT project, investigating categorical speech perception and the distribution of
 phonemic and prosodic representations across the bilateral frontotemporal language network in a combined TMS-fMRI approach using Representational Similarity Analysis (RSA).
 
-This repository only contains the main scripts and custom function needed for the analyses for the thesis part of the project. Additional versions, variations and other analyses (such as other pipeline versions, searchlight(wip) or contrast analysis) can be found in the following repository: git@github.com:seunggookim/pronet.git
+This repository only contains the main scripts and custom function needed for the analyses for the thesis part of the project. Additional versions, variations and other analyses (such as other pipeline versions, searchlight(wip) or contrast analysis) can be found in the following repository: [git@github.com:seunggookim/pronet.git](https://github.com/seunggookim/pronet)
 
 
 ---
