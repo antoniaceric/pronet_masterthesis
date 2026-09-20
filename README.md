@@ -24,7 +24,8 @@ This repository only contains the main scripts and custom function needed for th
 ## Overview methodological pipelines
 Pipelines are automatically run by `pronet_main_may2026.m`
 
-<img width="1240" height="579" alt="image" src="https://github.com/user-attachments/assets/f53da1ee-347a-497a-b19c-9e222614d9fc" />
+<img width="1230" height="335" alt="pipeline_overview_082026" src="https://github.com/user-attachments/assets/2838e172-fdd4-4c0d-9393-e342cb0cd1e0" />
+
 
 ---
 
